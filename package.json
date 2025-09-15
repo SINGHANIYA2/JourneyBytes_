@@ -1,0 +1,30 @@
+{
+  "name": "journeybytes_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SINGHANIYA2/JourneyBytes_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SINGHANIYA2/JourneyBytes_/issues"
+  },
+  "homepage": "https://github.com/SINGHANIYA2/JourneyBytes_#readme",
+  "dependencies": {
+    "expo": "^54.0.7",
+    "react": "^19.1.1",
+    "react-native": "^0.81.4"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2",
+    "@types/react": "~19.1.10"
+  }
+}
