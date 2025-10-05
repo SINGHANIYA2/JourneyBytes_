@@ -10,7 +10,7 @@ Our goal is to *create a smooth, intuitive trip-planning experience* with featur
 
 - 3D visualization of tourist spots  
 - Cultural and historical insights  
-- Location-based information  
+- Location-based  information  
 
 We follow a *4-week structured plan* for study and implementation to ensure a polished, hackathon-ready product.  
 
